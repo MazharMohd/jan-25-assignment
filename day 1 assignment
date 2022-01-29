@@ -1,0 +1,15 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<script language= javascript>
+var n = prompt( "enter  number")
+if(n>=10)
+alert(n+ "is greater than 10 ur equal")
+else
+alert(n+ " is less than 10")
+</script>
+</body>
+</html>
+
